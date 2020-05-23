@@ -1,0 +1,8 @@
+{
+  "name": "Run Custom Command",
+  "description": "Run user-defined command in \"Run a Command\" dialog",
+  "uuid": "runcustomcommand@kofuk.org",
+  "shell-version": [
+    "3.36"
+  ]
+}
